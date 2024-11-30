@@ -1,5 +1,5 @@
 ![Screenshot (51)](https://github.com/user-attachments/assets/d14f0ad9-4df1-46f7-a750-8d7f62190163)![Screenshot (52)](https://github.com/user-attachments/assets/64f3a06f-16d0-4bb0-971a-c544fcbe67d6)# Ex04 Places Around Me
-# Date:
+# Date: 30-11-2024
 # AIM
 To develop a website to display details about the places around my house.
 
